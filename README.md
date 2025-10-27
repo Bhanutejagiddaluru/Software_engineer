@@ -1,6 +1,6 @@
 # **Bhanu Teja's Website**
 
-Welcome to Bhanu Teja's personal website. This site showcases my journey, projects, and experiences in robotics, artificial intelligence, and technology. Here you will find details about my work, blog posts, and other professional endeavors.
+Welcome to Bhanu Teja's personal website. This site showcases my journey, projects, and experiences in Software Engineer (Full-Stack + DevOps + Data Systems), artificial intelligence, and technology. Here you will find details about my work, blog posts, and other professional endeavors.
 
 ## License & Usage Policy
 
